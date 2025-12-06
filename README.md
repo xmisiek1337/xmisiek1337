@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=xmisiek1337&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
@@ -76,4 +75,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
-```
