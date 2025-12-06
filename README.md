@@ -58,10 +58,10 @@
 ### :globe_with_meridians: Let's Contact
 
 <p align="center">
-  <a href="mailto:jakubfrugo@gmail.com">
+  <a href="mailto:xmikey1337@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1373357527823024130">
+  <a href="https://discord.com/users/1099733325909852281">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
