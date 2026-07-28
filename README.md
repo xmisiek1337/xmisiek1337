@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Changa+One&weight=200&pause=1000&color=6413F7&center=true&width=435&lines=Hello%2C+im+xmisiek1337;15yo+Junior+Developer+from+Poland" alt="Typing SVG" /></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Changa+One&weight=200&pause=1000&color=6413F7&center=true&width=435&lines=Hello%2C+im+xmisiek1337;18yo+Junior+Developer+from+Poland" alt="Typing SVG" /></p>
 
 <br/>
 
